@@ -16,7 +16,7 @@ public class Java8Lamda implements DefaultEx {
 	public static void main(String args[]) {
 
 		walk walk = distance ->
-		System.out.println("distance covered"+distance);
+		System.out.println("distance covereddddddddddddddd"+distance);
 		walk.walk("10 miles");
 		List<String> list = new <String>ArrayList();
 		list.add("naga");
